@@ -26,7 +26,4 @@ hs_err_pid*
 .settings
 .project
 .classpath
-target/
-test-output/
-node_modules/**
 .orig
